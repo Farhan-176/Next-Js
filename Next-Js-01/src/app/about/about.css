@@ -1,0 +1,18 @@
+
+
+
+
+.about-heading{
+    display: flex;
+    color: crimson;
+}
+
+.about-heading li{
+    margin-left: 25px;
+}
+
+.heading {
+    color: chocolate;
+    text-align: center;
+    margin-top: 25px;
+}
